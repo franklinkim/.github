@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/lockup.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/lockup.png">
   <img alt="$ whoami: Kevin Franklin Kim, Principal Engineer, Full Stack & Platform" src="../assets/lockup-light.png" width="520">
 </picture>
 
