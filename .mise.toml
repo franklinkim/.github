@@ -1,0 +1,10 @@
+#:schema https://mise.jdx.dev/schema/mise.json
+
+[settings]
+minimum_release_age = "3d"
+
+[tools]
+# https://mise-tools.jdx.dev/tools/rumdl
+rumdl = "0.2.6"
+# https://mise-tools.jdx.dev/tools/lefthook
+lefthook = "2.1.8"

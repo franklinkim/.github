@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/evilmartians/lefthook/refs/heads/master/schema.json
+# https://lefthook.dev/configuration/
+output: [ meta ]
+
+pre-commit:
+  parallel: true
+  commands:
+    rumdl:
+      run: rumdl check .
