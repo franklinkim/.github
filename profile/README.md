@@ -5,11 +5,9 @@
 
 I've been shipping software since 2006, full stack, wherever the tech stack leads: from the browser to the cloud.
 
-- **Products**: full-stack work on Go services, TypeScript frontends, and the Kubernetes platforms and cloud
-  environments they run on.
-- **Frameworks and tools** other engineers build on: a Kubernetes service framework ([keel](https://github.com/foomo/keel)),
-  a Go↔TypeScript RPC generator ([gotsrpc](https://github.com/foomo/gotsrpc)), a project shell ([posh](https://github.com/foomo/posh)),
-  a server-side tagging CLI ([sesamy-cli](https://github.com/foomo/sesamy-cli)) and a security scanner for developer machines ([obacht](https://github.com/foomo/obacht)).
+- **Products**: built end to end, from interface and services to the infrastructure they run on.
+- **Frameworks** other engineers build on: service frameworks, RPC layers and code generators.
+- **Tools** other engineers work with: CLIs, project shells and scanners that keep developer environments sane.
 - **Teams**: leading and teaching them how to build, review and ship.
 
 ### Elsewhere
