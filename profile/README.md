@@ -1,17 +1,23 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/lockup.png">
-  <img alt="$ whoami: Kevin Franklin Kim, Principal Engineer, Full Stack & Platform" src="assets/lockup-light.png" width="520">
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/lockup.png">
+  <img alt="$ whoami: Kevin Franklin Kim, Principal Engineer, Full Stack & Platform" src="../assets/lockup-light.png" width="520">
 </picture>
 
-Munich, Bavaria, Germany, Earth. Building developer tools and platforms.
+Munich, Bavaria, Germany, Earth.
 
-## What I work on
+I've been shipping software since 2006, full stack, wherever the tech stack leads: from the browser to the cloud.
 
-- [keel](https://github.com/foomo/keel) — opinionated Kubernetes service framework (Zap, NATS, OpenTelemetry, Temporal)
-- [gotsrpc](https://github.com/foomo/gotsrpc) — Go↔TypeScript RPC generator
-- [posh](https://github.com/foomo/posh) / [posh-providers](https://github.com/foomo/posh-providers) — Project Oriented Shell + provider plugins (Azure, Kubernetes, AI/MCP)
-- [sesamy-cli](https://github.com/foomo/sesamy-cli) — CLI for sesamy, a server-side tag management system
-- [obacht](https://github.com/foomo/obacht) — security configuration scanner for developer environments
+- **Products**: full-stack work on Go services, TypeScript frontends, and the Kubernetes platforms and cloud
+  environments they run on.
+- **Frameworks and tools** other engineers build on: a Kubernetes service framework ([keel](https://github.com/foomo/keel)),
+  a Go↔TypeScript RPC generator ([gotsrpc](https://github.com/foomo/gotsrpc)), a project shell ([posh](https://github.com/foomo/posh)),
+  a server-side tagging CLI ([sesamy-cli](https://github.com/foomo/sesamy-cli)) and a security scanner for developer machines ([obacht](https://github.com/foomo/obacht)).
+- **Teams**: leading and teaching them how to build, review and ship.
+
+## Work with me
+
+I take on focused engagements: a platform or dev-tooling setup that stays boring, a framework your teams can build on,
+or hands-on coaching for a team moving to Go and Kubernetes. → [franklinkim.de](https://franklinkim.de)
 
 ## Elsewhere
 
